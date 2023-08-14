@@ -40,12 +40,14 @@ Crusaders can be accessed through any modern web browser on desktop and mobile d
 ## Feedback and Support
 
 We value your feedback and are dedicated to improving Tyr's Vault. If you encounter any issues, have suggestions, or need assistance, please reach out.
+---
 
-**Jonny**
+### **Jonny**
 
-Github: [jonny258](https://github.com/jonny258)
+### Github: [jonny258](https://github.com/jonny258)
 
-Email: joncolsen3@gmail.com
+### Email: joncolsen3@gmail.com
+---
 
 **Sam**
 
