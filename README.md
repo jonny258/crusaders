@@ -41,6 +41,12 @@ Crusaders can be accessed through any modern web browser on desktop and mobile d
 
 We value your feedback and are dedicated to improving Tyr's Vault. If you encounter any issues, have suggestions, or need assistance, please reach out.
 
+**Jonny**
+
+Github: [jonny258](https://github.com/jonny258)
+
+Email: joncolsen3@gmail.com
+
 **Sam**
 
 Github: [sadums](https://github.com/sadums)
@@ -58,12 +64,6 @@ Email: carreejoh4637@mailbox.org
 Github: [kolelam](https://github.com/kolelam)
 
 Email: kolelamied1@gmail.com
-
-**Jonny**
-
-Github: [jonny258](https://github.com/jonny258)
-
-Email: joncolsen3@gmail.com
 
 ## License
 
